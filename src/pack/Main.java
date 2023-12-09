@@ -37,8 +37,7 @@ public class Main {
 		for(int i = 0; i<numbers.length; i++)
 		{
 			System.out.println(tree.Search(numbers[i]));
-		}
-		
+		}		
 	}
 	public static int[] threeRandomNumbers()
 	{
